@@ -1,0 +1,6 @@
+{
+  "name": "EggTrack - Pencatat Penjualan & Produksi Telur",
+  "description": "Sistem informasi manajemen peternakan ayam petelur dengan pencatatan produksi harian, penjualan, laporan keuangan, konversi laba ke modal, manajemen pengguna, dan pencadangan database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
